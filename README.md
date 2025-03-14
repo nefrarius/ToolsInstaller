@@ -39,7 +39,8 @@ Simply select the abilities you wish to install from the intuitive menu, and let
 
 📸 Screenshots
 
-(Optional: Add screenshots or GIFs demonstrating the script in action.)
+![image](https://github.com/user-attachments/assets/dffb2d3c-5834-4214-ae97-48d14807f17b)
+
 
 🤝 Contributing
 
